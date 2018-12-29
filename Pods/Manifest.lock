@@ -1,0 +1,16 @@
+PODS:
+  - PusherSwift (5.1.1)
+
+DEPENDENCIES:
+  - PusherSwift (~> 5.1.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - PusherSwift
+
+SPEC CHECKSUMS:
+  PusherSwift: de9238b6b9faec5275d452e5f43ce9c82b78731e
+
+PODFILE CHECKSUM: a7cc033c652384fbd44cab707b93bbfcea51781c
+
+COCOAPODS: 1.5.3
